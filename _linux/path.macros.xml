@@ -1,7 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="JAVA_HOME" value="/usr/lib/jvm/java-8-openjdk-amd64" />
-    <macro name="MAVEN_REPOSITORY" value="/home/programista/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/home/programista/bin/idea-IC-143.1184.17/plugins/Kotlin/kotlinc" />
-  </component>
-</application>
