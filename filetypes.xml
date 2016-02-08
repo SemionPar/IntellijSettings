@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="plik" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
-      <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="fiel" type="PLAIN_TEXT" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
