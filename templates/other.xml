@@ -1,0 +1,8 @@
+<templateSet group="other">
+  <template name="test" value="@org.junit.Test&#10;public void should$NAME$() {&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;    org.assertj.core.api.Assertions.assertThat();&#10;}" description="Test" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
