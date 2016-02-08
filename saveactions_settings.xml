@@ -1,0 +1,12 @@
+<application>
+  <component name="SaveActionSettings">
+    <option name="exclusions">
+      <set>
+        <option value=".*/.*/generated-sources" />
+        <option value=".*\.gradle" />
+        <option value="src/main/generated-sources/.*\.java" />
+      </set>
+    </option>
+    <option name="rearrange" value="true" />
+  </component>
+</application>
