@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="armory.activateArmory">
+    <keyboard-shortcut first-keystroke="ctrl altGraph a" />
+  </action>
+</keymap>
