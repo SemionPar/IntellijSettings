@@ -7,6 +7,5 @@
         <option value="src/main/generated-sources/.*\.java" />
       </set>
     </option>
-    <option name="rearrange" value="true" />
   </component>
 </application>
