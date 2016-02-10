@@ -1,5 +1,14 @@
 <application>
   <component name="SaveActionSettings">
+    <option name="actions">
+      <set>
+        <option value="activate" />
+        <option value="organizeImports" />
+        <option value="reformat" />
+        <option value="reformatChangedCode" />
+        <option value="rearrange" />
+      </set>
+    </option>
     <option name="exclusions">
       <set>
         <option value=".*/.*/generated-sources" />
